@@ -51,29 +51,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/l4c1f2r' //Link Instagrammu
-global.sgh = 'https://github.com/Lucife-Putra' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+global.sig = 'https://instagram.com/l4cf2r' //Link Instagrammu
+global.sgh = 'https://github.com/Luci-Putra' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCyiabos8Ff'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
 global.pdana = '085608468994' //Nomor Danamu
-global.ppulsa = '0856084689' //Nomor SimCard Yang Kamu Pake
+global.ppulsa = '085608468994' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285608468927376' //Nomor Bot
+global.nomorbot = '6285608468994' //Nomor Bot
 global.nomorown = '447971533162' //Nomor Owner
-global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
+global.namebot = 'Divメ฿Ø₮™' //Nama Bot
+global.nameown = '༄ᶜDivan☆࿐' // Nama Owner
 global.wame = 'https://api.whatsapp.com/send?phone=+447971533162'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['447971533162', '❦ ༄ᶜᴋputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['447971533162', '❦ ༄ᶜᴋDivan☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
